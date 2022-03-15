@@ -1,0 +1,9 @@
+.header {
+    padding: 32px;
+    background: lightgray;
+}
+
+.header__title {
+    margin: 0;
+    text-align: center;
+}
